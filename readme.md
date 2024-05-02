@@ -5,11 +5,7 @@
 * [level-3](https://github.com/reddynn/golang-mysql-user-registration-level-3)
 * [level-4](https://github.com/reddynn/golang-mysql-user-registration-level-4)
 * [level-5](https://github.com/reddynn/golang-mysql-user-registration-level-5)
-..........
-......
-...
-..
-level-N
+......................... level-N
 ## Welcome Note
 
 ```
