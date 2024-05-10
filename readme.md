@@ -26,7 +26,11 @@ go run main.go
 ```
 ## `Why I started this project`
 ```
-as a beginner if we look into any projects we may feel that its too complex to understand, it happens regularly with me, so that's where this project came to my mind, why can't i build something from basics and increase the standards and it should be documented so that if i go back and look into that i should feel that how the coding levels and standards are increased from very basics to advanced.
+as a beginner if we look into any projects we may feel that its too complex to understand,
+it happens regularly with me, so that's where this project came to my mind, why can't i
+build something from basics and increase the standards and it should be documented so that
+if i go back and look into that i should feel that how the coding levels and standards
+are increased from very basics to advanced.
 ```
 ## `level-1:`
 
@@ -54,16 +58,17 @@ as a beginner if we look into any projects we may feel that its too complex to u
 
 * added sign out functionality using golang sessions and cookies.
 
+## `upcoming levels:`
+
+* storing tokens in databases
+* jwt authentication mechanism will be added
+* coding standards will be increased.
 * ......
 * .....
 * ...
 * ..
 * .
 
-## `upcoming levels:`
-* storing tokens in databases
-* jwt authentication mechanism will be added
-* coding standards will be increased.
 
 ## `level-N:`
 * application should be production ready
